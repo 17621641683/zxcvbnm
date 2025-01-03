@@ -1,92 +1,92 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "sites": [
-    {
-      "key": "豆豆豆",
-      "name": "备用公众号【叨观荐影】",
-      "type": 3,
-      "api": "csp_DouDou",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+"蜘蛛"："https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f"，
+"壁纸"："https://深色壁纸.xxooo.cf/"，
+“站点”：[
 {
-  "sites": [
+"密钥"："豆豆豆"，
+"名称"："备用公众号【叨观荐影】"，
+"type"：3，
+"api"："csp_豆豆"，
+"索引"：1，
+"可搜索"：0，
+"快速搜索"：0，
+“可筛选”：0
+},
+{
+“站点”：[
 
-    {
-      "key": "精工厂",
-      "name": "精工厂",
-      "type": 0,
-      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "91md",
-      "name": "91",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "影库资源",
-      "name": "影库资源",
-      "type": 1,
-      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "速播",
-      "name": "速播",
-      "type": 1,
-      "api": "https://api.suboapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "美少女",
-      "name": "美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "点点",
-      "name": "点点",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "屌丝",
-      "name": "屌丝",
-      "type": 0,
-      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "哥哥妹妹",
-      "name": "哥哥妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+{
+"密钥"："精工厂"，
+"名称"："精工厂"，
+"type"：0，
+"api"："https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"key"："91md"，
+"name"："91"，
+"type"：1，
+"api"："https://91md.me/api.php/provide/vod/from/mdm3u8/"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"密钥"："影库资源"，
+"名称"："影库资源"，
+"type"：1，
+"api"："https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"密钥"："速播"，
+"名称"："速播"，
+"type"：1，
+"api"："https://api.suboapi.com/api.php/provide/vod/"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"密钥"："美少女"，
+"名称"："美少女"，
+"type"：0，
+"api"："https://www.msnii.com/api/xml.php"，
+"可搜索"：1，
+"快速搜索"：1，
+“可过滤”：1
+},
+{
+"密钥"："点点"，
+"名称"："点点"，
+"type"：0，
+"api"："https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"密钥"："屌丝"，
+"名称"："屌丝"，
+"type"：0，
+"api"："https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml"，
+"可搜索"：1，
+"快速搜索"：1，
+“可筛选”：0
+},
+{
+"密钥"："哥哥妹妹"，
+"名称"："哥哥妹妹"，
+"type"：0，
+"api"："http://www.ggmmzy.com:9999/inc/xml"，
+"可搜索"：0，
+"快速搜索"：0，
+“可筛选”：0
+},
     {
       "key": "CK资源",
       "name": "CK资源",
